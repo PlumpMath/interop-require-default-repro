@@ -206,7 +206,7 @@ var _instanceof = function (left, right) {
   }
 };
 
-var interopRequireDefault = function (obj) {
+var interopRequireDefault$1 = function (obj) {
   return obj && obj.__esModule ? obj : {
     default: obj
   };
@@ -388,7 +388,7 @@ var babelHelpers$1 = Object.freeze({
   defineProperty: defineProperty,
   get: get,
   inherits: inherits,
-  interopRequireDefault: interopRequireDefault,
+  interopRequireDefault: interopRequireDefault$1,
   interopRequireWildcard: interopRequireWildcard,
   newArrowCheck: newArrowCheck,
   objectDestructuringEmpty: objectDestructuringEmpty,
